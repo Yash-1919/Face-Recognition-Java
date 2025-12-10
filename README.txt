@@ -1,10 +1,10 @@
 
-Face Recognition (Console) - Project structure
+Face Recognition (Console) :-
 
 After extracting this ZIP, your folder should contain:
 
  - lib/      (already present, put opencv-4120.jar here)
- - data/     (already present, will hold captured face images)
+ - data/     (may not be present (create one data with your name inside), will hold captured face images)
  - resources/
  - src/
  - README.txt
